@@ -1,3 +1,5 @@
+Created by [Timothy Jaeryang Baek](https://github.com/tjbck), I just adapted it to my needs
+
 # Open WebUI 👋
 
 ![GitHub stars](https://img.shields.io/github/stars/open-webui/open-webui?style=social)
